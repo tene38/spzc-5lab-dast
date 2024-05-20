@@ -1,2 +1,2 @@
-/opt/lab_sec_audit/dast/vulnerable-spring-boot-application/src/test/java/com/contrastsecurity/demo/providersearch/ProviderControllerTest.java
-/opt/lab_sec_audit/dast/vulnerable-spring-boot-application/src/test/java/com/contrastsecurity/demo/providersearch/ProviderSearchApplicationTests.java
+/opt/lab_sec_audit/dast/src/test/java/com/contrastsecurity/demo/providersearch/ProviderControllerTest.java
+/opt/lab_sec_audit/dast/src/test/java/com/contrastsecurity/demo/providersearch/ProviderSearchApplicationTests.java

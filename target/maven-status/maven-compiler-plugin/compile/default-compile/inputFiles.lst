@@ -1,5 +1,5 @@
-/opt/lab_sec_audit/dast/vulnerable-spring-boot-application/src/main/java/com/contrastsecurity/demo/providersearch/Provider.java
-/opt/lab_sec_audit/dast/vulnerable-spring-boot-application/src/main/java/com/contrastsecurity/demo/providersearch/ProviderController.java
-/opt/lab_sec_audit/dast/vulnerable-spring-boot-application/src/main/java/com/contrastsecurity/demo/providersearch/ProviderSearchApplication.java
-/opt/lab_sec_audit/dast/vulnerable-spring-boot-application/src/main/java/com/contrastsecurity/demo/providersearch/SearchForm.java
-/opt/lab_sec_audit/dast/vulnerable-spring-boot-application/src/main/java/com/contrastsecurity/demo/providersearch/ProviderSearchDAO.java
+/opt/lab_sec_audit/dast/src/main/java/com/contrastsecurity/demo/providersearch/ProviderSearchApplication.java
+/opt/lab_sec_audit/dast/src/main/java/com/contrastsecurity/demo/providersearch/ProviderController.java
+/opt/lab_sec_audit/dast/src/main/java/com/contrastsecurity/demo/providersearch/SearchForm.java
+/opt/lab_sec_audit/dast/src/main/java/com/contrastsecurity/demo/providersearch/ProviderSearchDAO.java
+/opt/lab_sec_audit/dast/src/main/java/com/contrastsecurity/demo/providersearch/Provider.java

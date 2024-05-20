@@ -17,6 +17,7 @@ public class ProviderSearchDAO {
         String q = "select * from PROVIDERS where public_listing is true and zip_code = '" + zipCode + "'";
         Query query = em.createNativeQuery(q);
         List<Object[]> results = query.getResultList();
+	em.close();
         return results;
     }
 }
